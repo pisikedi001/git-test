@@ -1,3 +1,4 @@
 İlk satır: Ekzantrik bir dil gibi görünüyor.
 İkinci satır: Git öğrenmek çok kolaymış!
 "Bu satır yeni-ozellik dalında eklendi!"
+"4. Satır: GitHub üzerinden eklendi."
